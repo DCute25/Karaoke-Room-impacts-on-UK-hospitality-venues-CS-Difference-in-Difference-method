@@ -5,10 +5,14 @@
 ## File and directory structure
   **Contents of the different directories**
   
-    - Directory 'code' includes the STATA code file 'karaoke_roa.do'
+    - Directory 'code' includes:
+        + STATA code file 'karaoke_roa.do'
+
+    - Directory 'data' includes:
+        + Studied venues data file 'karaoke_room_checked.csv'
+        
     - Directory 'document' includes:
-        + the project plan
-        + the detailed document of the project
+        + The complete Bachelor's thesis
        
   **Contents of README files**
   
