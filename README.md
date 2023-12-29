@@ -30,11 +30,16 @@
 ## User instructions
 
   **The program is executed by running the file 'karaoke_roa.do', which utilizes the data from file 'karaoke_room_checked.csv'**
+
+  After installing the csdid package, set up the working space: 
     - Change to the directory that stores the data file 'karaoke_room_checked.csv':
         + cd "your directory"
         
     - Import the data file:
         + import delimited "karaoke_room_checked.csv", clear
+
+    - Check for any duplicates in the panel data for the code to run smoothly
+        + Code section ***Check for duplicate in panel data
           
   **The supporting graphs and tables used in the thesis are ontained as follow**
   
