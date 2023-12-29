@@ -21,4 +21,4 @@
 
 ## User instructions
 
-    - The program is executed by running the file 'MainWindow_RobotArm'
+    - The program is executed by running the file 'karaoke_roa.do'
