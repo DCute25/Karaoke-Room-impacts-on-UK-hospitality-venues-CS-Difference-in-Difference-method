@@ -5,15 +5,17 @@
 ## File and directory structure
   **Contents of the different directories**
   
-    - Directory 'code' includes the code file 
-       
-  **Contents of README files**
-    - The first README file describes:
-        + the progression of the projects through Checkpoints 1
-        + the progression of the projects through Checkpoints 2
+    - Directory 'code' includes the STATA code file 'karaoke_roa.do'
     - Directory 'document' includes:
         + the project plan
         + the detailed document of the project
+       
+  **Contents of README files**
+  
+    - The README file describes:
+        + Project information
+        + User instruction
+    
 
 ## Installation instructions
     - The program requires the library PyQt
@@ -21,4 +23,5 @@
 
 ## User instructions
 
-    - The program is executed by running the file 'karaoke_roa.do'
+    - The program is executed by running the file 'karaoke_roa.do', which utilizes the data from file 'karaoke_room_checked.csv'
+      + The Figure 2 in the thesis, Parallel trend test, 
