@@ -3,6 +3,7 @@
 ## Introduction
   This projects demonstrates the practical application of the DiD estimator by Callaway and Sant’Anna (2021) for future method practitioners. It shows clear steps on how to apply this method in a real business scenario to study the karaoke installation effects on hospitality venues. 
 ## File and directory structure
+
   **Contents of the different directories**
   
     - Directory 'code' includes:
@@ -12,7 +13,7 @@
         + Studied venues data file 'karaoke_room_checked.csv'
         
     - Directory 'document' includes:
-        + The complete Bachelor's thesis
+        + The complete Bachelor's thesis " Advancing Applicability Of Difference-In-Difference Methods Applicability In Non-Experimental Settings:  An empirical analysis of karaoke's impact on hospitality venues’ return on assets in the UK"
        
   **Contents of README files**
   
@@ -22,8 +23,9 @@
     
 
 ## Installation instructions
-    - The program requires the library PyQt
-    - No other libraries needed
+
+    - The program requires the csdid package
+    - Install it by typing ssc install csdid
 
 ## User instructions
 
@@ -33,5 +35,11 @@
 
       + The Figure 3 in the thesis, Karaoke Group-Time average treatment effects, is obtained from:
       Code section ***Visualize Group-Time Average Treatment Effects - Unconditional parallel trend 
-      Code section ***Visualize Group-Time Average Treatment Effects - Conditional parallel trend 
+      Code section ***Visualize Group-Time Average Treatment Effects - Conditional parallel trend
+
+      + The Table 4 in the thesis, aggregated treatment effect, is obtained from:
+      Code section ***Without covariates (uncodnitional parallel trend assumptions)
+      Code section ***With covariates (conditional parallel trend assumptions)
+      
+      + All generated graphs are automatically saved in the current directory.
       
