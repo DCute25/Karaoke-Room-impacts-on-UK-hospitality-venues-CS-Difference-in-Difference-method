@@ -1,7 +1,8 @@
 # Project's Title
   CS Difference-in-Difference empirical analysis: Karaoke Room impacts on UK hospitality venues' return on assets
+  
 ## Introduction
-  This projects demonstrates the practical application of the DiD estimator by Callaway and Sant’Anna (2021) for future method practitioners. It shows clear steps on how to apply this method in a real business scenario to study the karaoke installation effects on hospitality venues. 
+  This code is accompanied for the bachelor thesis "Advancing Applicability Of Difference-In-Difference Methods Applicability In Non-Experimental Settings:  An empirical analysis of karaoke's impact on hospitality venues’ return on assets in the UK"
 ## File and directory structure
 
   **Contents of the different directories**
