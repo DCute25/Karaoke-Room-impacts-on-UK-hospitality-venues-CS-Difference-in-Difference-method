@@ -30,16 +30,23 @@
 ## User instructions
 
     - The program is executed by running the file 'karaoke_roa.do', which utilizes the data from file 'karaoke_room_checked.csv'
-      + The Figure 2 in the thesis, Parallel trend test, is obtained from:
-      Code section ***Visualization for parallel trend assumpion test
+        + Change to the directory that stores the data file 'karaoke_room_checked.csv':
+          cd "your directory"
+        
+        + Import the data file:
+          import delimited "karaoke_room_checked.csv", clear
+          
+    - The supporting graphs and tables used in the thesis are ontained as follows:
+        + The Figure 2 in the thesis, Parallel trend test, is obtained from:
+          Code section ***Visualization for parallel trend assumpion test
 
-      + The Figure 3 in the thesis, Karaoke Group-Time average treatment effects, is obtained from:
-      Code section ***Visualize Group-Time Average Treatment Effects - Unconditional parallel trend 
-      Code section ***Visualize Group-Time Average Treatment Effects - Conditional parallel trend
+        + The Figure 3 in the thesis, Karaoke Group-Time average treatment effects, is obtained from:
+          Code section ***Visualize Group-Time Average Treatment Effects - Unconditional parallel trend 
+          Code section ***Visualize Group-Time Average Treatment Effects - Conditional parallel trend
 
-      + The Table 4 in the thesis, aggregated treatment effect, is obtained from:
-      Code section ***Without covariates (uncodnitional parallel trend assumptions)
-      Code section ***With covariates (conditional parallel trend assumptions)
+        + The Table 4 in the thesis, aggregated treatment effect, is obtained from:
+          Code section ***Without covariates (uncodnitional parallel trend assumptions)
+          Code section ***With covariates (conditional parallel trend assumptions)
       
-      + All generated graphs are automatically saved in the current directory.
+      All generated graphs are automatically saved in the users' working directory.
       
