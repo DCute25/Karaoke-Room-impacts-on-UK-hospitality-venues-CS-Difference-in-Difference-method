@@ -3,7 +3,7 @@
 ## Introduction
   
 ## File and directory structure
-**Contents of the different directories**
+  **Contents of the different directories**
     - Directory 'code' includes the code file 
         (All the files have to be gone through for the program funtioning)
         + MainWindow_RobotArm.py
@@ -15,7 +15,7 @@
         + inverse_kinematic.py
         + test.py
 
-**Contents of README files**
+  **Contents of README files**
     - The first README file describes:
         + the progression of the projects through Checkpoints 1
         + the progression of the projects through Checkpoints 2
