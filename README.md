@@ -24,4 +24,10 @@
 ## User instructions
 
     - The program is executed by running the file 'karaoke_roa.do', which utilizes the data from file 'karaoke_room_checked.csv'
-      + The Figure 2 in the thesis, Parallel trend test, 
+      + The Figure 2 in the thesis, Parallel trend test, is obtained from:
+      Code section ***Visualization for parallel trend assumpion test
+
+      + The Figure 3 in the thesis, Karaoke Group-Time average treatment effects, is obtained from:
+      Code section ***Visualize Group-Time Average Treatment Effects - Unconditional parallel trend 
+      Code section ***Visualize Group-Time Average Treatment Effects - Conditional parallel trend 
+      
